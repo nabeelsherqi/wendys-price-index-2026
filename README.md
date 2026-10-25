@@ -19,4 +19,4 @@ The study covers 26 core menu items in 50 U.S. cities, with one restaurant per c
 
 ## Dataset
 
-The dataset CSV will be added to this repository when the file is provided. This README is published first so the study and source links are publicly available.
+The full dataset is available in [observations-v1.csv](observations-v1.csv) in this repository (1,300 prices, 26 items, 50 cities, Oct 20-22, 2026).
